@@ -1,5 +1,5 @@
 
-# Ejercicios de JavaScript: Percy Jackson y los Objetos Mágicos
+# Ejercicios de JavaScript:
 
 Este conjunto de ejercicios está diseñado para ayudarte a practicar la manipulación de arrays en JavaScript.
 Cada ejercicio tiene un archivo base para trabajar y una solución propuesta.
