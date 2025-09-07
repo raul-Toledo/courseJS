@@ -1,7 +1,7 @@
-# Ejercicio: Tabla de Puntuación de Poder en el Campamento Mestizo
+# Ejercicio: Tabla de Puntuación de Poder
 
 ## Descripción General
-Eres responsable de gestionar la tabla de puntuaciones del Campamento Mestizo, donde semidioses y criaturas compiten para demostrar su fuerza y habilidades. A través de estos ejercicios, trabajarás con diferentes operaciones en objetos de JavaScript para manipular y actualizar las puntuaciones de los participantes.
+Eres responsable de gestionar la tabla de puntuaciones. A través de estos ejercicios, trabajarás con diferentes operaciones en objetos de JavaScript para manipular y actualizar las puntuaciones de los participantes.
 
 Cada tarea representa una función que te ayudará a gestionar las puntuaciones: desde la creación del tablero, hasta la actualización de los puntos de poder, pasando por la eliminación de participantes inactivos.
 
@@ -24,3 +24,4 @@ En cada tarea, asegúrate de cumplir con las especificaciones y de revisar las s
 
 ## Archivo de Soluciones
 En el archivo de soluciones encontrarás una explicación detallada de cada uno de los ejercicios y cómo resolverlos.
+
